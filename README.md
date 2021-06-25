@@ -10,4 +10,4 @@
     * Realizado a análise de sentimento das frases do texto
 
 ## Observação
-Esse trabalho foi realizado sem otimização, podendo ser aprimorando futuramente.
+Esse trabalho foi realizado sem otimização, podendo ser aprimorado futuramente.
